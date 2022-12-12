@@ -1,0 +1,20 @@
+{
+  "type": "service_account",
+  "project_id": "das-jalapa",
+  "private_key_id": "f5b0525451d4ea540e0977ce28b58c1221ef0725",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYZITOY3ygKxps\nHj/71U7K1lYRJmIcsV3Wku6J6gCjFUzYWpIVr+wISUKb/GArBw6mvJW2Ozsp/VAX\n5OEmwY+FpTLtEupMQRcAU7/L0dFLeneA3DbG8L+alpFSkXnOWdLN1YezLo7bRGES\nvKF2U5mw4m56bQJFZtgGu8T86p6tArpFRQN/2qiBZHuXr2PGUBu0Jcr8CPtoJLQ9\nafP7wuITHdI+oIJLWlsdlNdK2WYS3X8RGPKTIwmijJ1Ze1mfTkcAFvA+fReYKmUw\nirgsoP6kakaajiA6iQB5m/napuyFl46TWXd6TYC7IZD5SYq4TxY09ksztBZ0ixtI\n/RmPMj5lAgMBAAECggEADYGBHKqICcjwKUtgB9Fuj38B9zij4t+cTa9NeUcWId36\nJsWWI1ppTI2zm8/49O9F7uSRTyp+Mpk67zcvdiga8HEE66psve/Z2kNR4P46MpqK\nu06pAyYkkQ6NmBgBB9cBnhDx2yFB83Biuw6hL7O2kAztVifRlvWHqUccbP7dK7+K\nUaZfd6woPmbhdOCXUMVkxBJr6AN34wCHpMi9BtnH9ipjbWBZIj1w/Q3pGsMMdvlQ\nXeGX503Nk0RBVzADKjLj2tVqiRb7ulpc41ImhyojXwxLarjNKn5j0bIFLX/802Hk\ngaDVADeb+9LoVc4IsuKY+aYo1P76+lTwe6Zc3dU8iQKBgQDRNnKWMWHTeYII8553\neMLUNe0RgjoSHbryg6XemQ5KE7kjlShkyIx/Vc4se6pDZUf/f0EOjUX+2ZMTD6h1\nKmZ5D+6hj9627DcuqKDAjKK54djc11bv3xEZ1sunQQXEk3vDwqihyvd4vTxb4JYy\nnvhm0eLtRIyUFf9obDEz3dg/mQKBgQC6eRcGYLmEKUFK/q7FIEnU3atVBSstGgtR\nsdDJGTJIVYA5pxDj//l4z0MjxCXFP6MUnM8NVkIzO2bMSFTrvecV+vGmGBQwEFxH\nGyroZORcnlpXuVrqtJYGCSywGtb9mFycGwUOii/R9V8fn1sut0ToKsZNXbbdeFgp\nLbQQFaPkrQKBgQC1PEqVi5/oN7mLEag0bPuyJCkDYuH1caXSknLtW3/CckWO6pa8\nf/MeF/HsHREJI0L0tYNhHMcHF+pNt+HB5gIxW7joYp6Xrhe7pr7jLrGE/34DCdS5\nJW9GCAoSEMTzXqP3mLjGt/IbuSsBmJPktEwRnj7MNfbmDgxcpGUXPlYn+QKBgGY2\nR6OsUyQZRPvpnDzbVP0EQIzK137SXs/56trAH+q8SxvO8pg3UDSjT0cEljuHhUmg\nJnJGDOVuMwvYvgu2PTu0IM8NNcuevCYRwzQ9UVtfRV/+btJmCDHox4EERUIeSO0c\ndmog3tN0bx6zR9TUikXEZIw1yS2ecJypu6BxbDPFAoGAZE50ZNr6bTh7h25GqCNX\nNMpBG/LlHzqHYzkOGHa1lMwC/q4tMq9+zif+I56UfbQwMyx+tF3mn+aWWzbHam0b\nQjNX6h8naU0yAyjJYgBCAn6plmy9akTiotN9R5LGOiM5EQTx7wtd74eY9GBaxAcp\nvay7RhVI+B2qaKrNuYGsTeA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-18d9r@das-jalapa.iam.gserviceaccount.com",
+  "client_id": "110632336994327853657",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-18d9r%40das-jalapa.iam.gserviceaccount.com",
+  
+  "apiKey": "AIzaSyADCCcUAik-J0SSZ0kdOBus8NUFMmtEr4w",
+  "authDomain": "das-jalapa.firebaseapp.com",
+  "databaseURL": "https://das-jalapa-default-rtdb.firebaseio.com",
+  "projectId": "das-jalapa",
+  "storageBucket": "das-jalapa.appspot.com",
+  "messagingSenderId": "378288426805",
+  "appId": "1:378288426805:web:0bee8e615136127d08467c"
+}
